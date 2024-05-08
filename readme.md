@@ -1,4 +1,4 @@
-# Ecomzy
+# Ecomzy-Shopping-App
 
 Ecomzy is a web application that allows users to browse and purchase products online. By harnessing the capabilities of React.js and Redux Toolkit, this platform offers a seamless journey across various devices, empowering users to explore, discover, and buy products effortlessly. With functionalities such as effortless item management, instant updates on cart content, and a simplified checkout flow, Ecomzy enhances the shopping experience.
 
